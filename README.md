@@ -18,4 +18,5 @@
 !["Love/Like objects"](https://github.com/Nicolas1922/hw6/blob/master/БезымянныйhgggkhWU.png?raw=true)
 
 I like/love this girlfriend (Она может нравится, ты ее можешь любить)
+
 I like books (Нельзя сказать: I love books, так как книги неодушевленный предмет)
